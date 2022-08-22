@@ -1,0 +1,45 @@
+C:\CGI Training\MyProjects\OnlineExaminationSystem\Examination.Core\bin\Debug\net5.0\Examination.Core.deps.json
+C:\CGI Training\MyProjects\OnlineExaminationSystem\Examination.Core\bin\Debug\net5.0\Examination.Core.runtimeconfig.json
+C:\CGI Training\MyProjects\OnlineExaminationSystem\Examination.Core\bin\Debug\net5.0\Examination.Core.runtimeconfig.dev.json
+C:\CGI Training\MyProjects\OnlineExaminationSystem\Examination.Core\bin\Debug\net5.0\Examination.Core.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\Examination.Core\bin\Debug\net5.0\ref\Examination.Core.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\Examination.Core\bin\Debug\net5.0\Examination.Core.pdb
+C:\CGI Training\MyProjects\OnlineExaminationSystem\Examination.Core\obj\Debug\net5.0\Examination.Core.csproj.AssemblyReference.cache
+C:\CGI Training\MyProjects\OnlineExaminationSystem\Examination.Core\obj\Debug\net5.0\Examination.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\CGI Training\MyProjects\OnlineExaminationSystem\Examination.Core\obj\Debug\net5.0\Examination.Core.AssemblyInfoInputs.cache
+C:\CGI Training\MyProjects\OnlineExaminationSystem\Examination.Core\obj\Debug\net5.0\Examination.Core.AssemblyInfo.cs
+C:\CGI Training\MyProjects\OnlineExaminationSystem\Examination.Core\obj\Debug\net5.0\Examination.Core.csproj.CoreCompileInputs.cache
+C:\CGI Training\MyProjects\OnlineExaminationSystem\Examination.Core\obj\Debug\net5.0\Examination.Core.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\Examination.Core\obj\Debug\net5.0\ref\Examination.Core.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\Examination.Core\obj\Debug\net5.0\Examination.Core.pdb
+C:\CGI Training\MyProjects\OnlineExaminationSystem\Examination.Core\obj\Debug\net5.0\Examination.Core.genruntimeconfig.cache
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\Examination.Core\obj\Debug\net5.0\Examination.Core.csproj.AssemblyReference.cache
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\Examination.Core\obj\Debug\net5.0\Examination.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\Examination.Core\obj\Debug\net5.0\Examination.Core.AssemblyInfoInputs.cache
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\Examination.Core\obj\Debug\net5.0\Examination.Core.AssemblyInfo.cs
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\Examination.Core\obj\Debug\net5.0\Examination.Core.csproj.CoreCompileInputs.cache
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\Examination.Core\obj\Debug\net5.0\Examination.Core.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\Examination.Core\obj\Debug\net5.0\ref\Examination.Core.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\Examination.Core\obj\Debug\net5.0\Examination.Core.pdb
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\Examination.Core\bin\Debug\net5.0\Examination.Core.deps.json
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\Examination.Core\bin\Debug\net5.0\Examination.Core.runtimeconfig.json
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\Examination.Core\bin\Debug\net5.0\Examination.Core.runtimeconfig.dev.json
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\Examination.Core\bin\Debug\net5.0\Examination.Core.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\Examination.Core\bin\Debug\net5.0\ref\Examination.Core.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\Examination.Core\bin\Debug\net5.0\Examination.Core.pdb
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\Examination.Core\obj\Debug\net5.0\Examination.Core.genruntimeconfig.cache
+D:\Training\Project\TEAM C\online-examinations-system-api\Examination.Core\bin\Debug\net5.0\Examination.Core.deps.json
+D:\Training\Project\TEAM C\online-examinations-system-api\Examination.Core\bin\Debug\net5.0\Examination.Core.runtimeconfig.json
+D:\Training\Project\TEAM C\online-examinations-system-api\Examination.Core\bin\Debug\net5.0\Examination.Core.runtimeconfig.dev.json
+D:\Training\Project\TEAM C\online-examinations-system-api\Examination.Core\bin\Debug\net5.0\Examination.Core.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\Examination.Core\bin\Debug\net5.0\Examination.Core.pdb
+D:\Training\Project\TEAM C\online-examinations-system-api\Examination.Core\obj\Debug\net5.0\Examination.Core.csproj.AssemblyReference.cache
+D:\Training\Project\TEAM C\online-examinations-system-api\Examination.Core\obj\Debug\net5.0\Examination.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Project\TEAM C\online-examinations-system-api\Examination.Core\obj\Debug\net5.0\Examination.Core.AssemblyInfoInputs.cache
+D:\Training\Project\TEAM C\online-examinations-system-api\Examination.Core\obj\Debug\net5.0\Examination.Core.AssemblyInfo.cs
+D:\Training\Project\TEAM C\online-examinations-system-api\Examination.Core\obj\Debug\net5.0\Examination.Core.csproj.CoreCompileInputs.cache
+D:\Training\Project\TEAM C\online-examinations-system-api\Examination.Core\obj\Debug\net5.0\Examination.Core.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\Examination.Core\obj\Debug\net5.0\refint\Examination.Core.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\Examination.Core\obj\Debug\net5.0\Examination.Core.pdb
+D:\Training\Project\TEAM C\online-examinations-system-api\Examination.Core\obj\Debug\net5.0\Examination.Core.genruntimeconfig.cache
+D:\Training\Project\TEAM C\online-examinations-system-api\Examination.Core\obj\Debug\net5.0\ref\Examination.Core.dll

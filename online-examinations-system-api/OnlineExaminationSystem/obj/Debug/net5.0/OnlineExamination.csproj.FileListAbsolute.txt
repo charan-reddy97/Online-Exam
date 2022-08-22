@@ -1,0 +1,168 @@
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\appsettings.json
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\OnlineExamination.exe
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\OnlineExamination.deps.json
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\OnlineExamination.runtimeconfig.json
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\OnlineExamination.runtimeconfig.dev.json
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\OnlineExamination.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\ref\OnlineExamination.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\OnlineExamination.pdb
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Examination.Core.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Examination.Core.pdb
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.csproj.AssemblyReference.cache
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.GeneratedMSBuildEditorConfig.editorconfig
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.AssemblyInfoInputs.cache
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.AssemblyInfo.cs
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.csproj.CoreCompileInputs.cache
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.MvcApplicationPartsAssemblyInfo.cache
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\staticwebassets\OnlineExamination.StaticWebAssets.Manifest.cache
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\staticwebassets\OnlineExamination.StaticWebAssets.xml
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\scopedcss\bundle\OnlineExamination.styles.css
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.RazorTargetAssemblyInfo.cache
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.csproj.CopyComplete
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\ref\OnlineExamination.dll
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.pdb
+C:\CGI Training\MyProjects\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.genruntimeconfig.cache
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\appsettings.json
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\OnlineExamination.exe
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\OnlineExamination.deps.json
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\OnlineExamination.runtimeconfig.json
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\OnlineExamination.runtimeconfig.dev.json
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\OnlineExamination.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\ref\OnlineExamination.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\OnlineExamination.pdb
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Examination.Core.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\bin\Debug\net5.0\Examination.Core.pdb
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.csproj.AssemblyReference.cache
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.GeneratedMSBuildEditorConfig.editorconfig
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.AssemblyInfoInputs.cache
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.AssemblyInfo.cs
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.csproj.CoreCompileInputs.cache
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.MvcApplicationPartsAssemblyInfo.cache
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\staticwebassets\OnlineExamination.StaticWebAssets.Manifest.cache
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\staticwebassets\OnlineExamination.StaticWebAssets.xml
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\scopedcss\bundle\OnlineExamination.styles.css
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.RazorTargetAssemblyInfo.cache
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.csproj.CopyComplete
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\ref\OnlineExamination.dll
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.pdb
+C:\CGI Training\MyProjects\New folder\OnlineExaminationSystem\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.genruntimeconfig.cache
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\appsettings.Development.json
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\appsettings.json
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\OnlineExamination.StaticWebAssets.xml
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\OnlineExamination.exe
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\OnlineExamination.deps.json
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\OnlineExamination.runtimeconfig.json
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\OnlineExamination.runtimeconfig.dev.json
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\OnlineExamination.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\OnlineExamination.pdb
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\Examination.Core.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\bin\Debug\net5.0\Examination.Core.pdb
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.csproj.AssemblyReference.cache
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.AssemblyInfoInputs.cache
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.AssemblyInfo.cs
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.csproj.CoreCompileInputs.cache
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.MvcApplicationPartsAssemblyInfo.cache
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\obj\Debug\net5.0\scopedcss\bundle\OnlineExamination.styles.css
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\obj\Debug\net5.0\staticwebassets\OnlineExamination.StaticWebAssets.Manifest.cache
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.RazorTargetAssemblyInfo.cache
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.csproj.CopyComplete
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\obj\Debug\net5.0\refint\OnlineExamination.dll
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.pdb
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\obj\Debug\net5.0\OnlineExamination.genruntimeconfig.cache
+D:\Training\Project\TEAM C\online-examinations-system-api\OnlineExaminationSystem\obj\Debug\net5.0\ref\OnlineExamination.dll
